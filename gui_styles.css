@@ -1,0 +1,9 @@
+/* 灵魂画手GUI样式 - 紧凑布局 */
+
+.compact-frame {
+    padding: 5px;
+}
+
+.compact-label {
+    padding: 2px;
+}
